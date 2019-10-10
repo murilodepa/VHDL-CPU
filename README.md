@@ -4,8 +4,6 @@
 
 ### Descrição do Projeto
 
-* Realizar o projeto de uma CPU capaz de executar as seguintes instruções:
-
    Instrução   |    Significado      |      Descrição
  ------------- | ------------------- | ---------------:
  Mov Ri, Rj    | Ri <- Rj            | Move 
