@@ -1,4 +1,4 @@
-# CPU em VHDL
+# Construir uma CPU em VHDL
 
 ## Projeto de uma unidade de controle gerencial de uma CPU de 16bits, capaz de realizar algumas instruções descritas no projeto em VHDL.
 
