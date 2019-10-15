@@ -1,6 +1,6 @@
-# Construir uma CPU em VHDL
+# Project a Central Processing Unit (CPU) in VHDL
 
-## Project of a 16 bit CPU management control unit, capable of performing some instructions in the programming language VHDL.
+## Project of a 16 bit Central Processing Unit (CPU) management control unit, capable of performing some instructions in the programming language VHDL.
 
 ### Project description
 
