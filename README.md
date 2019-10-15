@@ -1,10 +1,10 @@
 # Construir uma CPU em VHDL
 
-## Projeto de uma unidade de controle gerencial de uma CPU de 16bits, capaz de realizar algumas instruções descritas no projeto em VHDL.
+## Project of a 16 bit CPU management control unit, capable of performing some instructions in the programming language VHDL.
 
-### Descrição do Projeto
+### Project description
 
-   Instrução   |    Significado      |      Descrição
+   Instruction |       Meaning       |   Description  
  ------------- | ------------------- | ---------------:
  Mov Ri, Rj    | Ri <- Rj            | Move 
  Mov Ri, Imed  | Ri <- Imed          | Move Immediate
@@ -18,7 +18,7 @@
  OR Ri, Rj     | Ri <- Ri | Rj       | Or
  ORI Ri, Imed  | Ri <- Ri | Imed     | Or Immediate
  
-### Desenvolvedores
+### Developers
 * Murilo de Paula Araujo.
 * Christopher de Oliveira Souza.
 * Beatriz Morelatto Lorente.
